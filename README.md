@@ -21,3 +21,12 @@ Como dibujar un poligono en nuestra ventana
 
 ## 05-LadBlit
 Cargar imagenes y pintarlas en nuestra ventana
+
+## 06-Random
+Posicionaminto de imagenes en valores aleatorios
+
+## 07-AnimacionSimple
+Añadimos moviemiento simple a la imagen
+
+## 08-MovimientoTeclado
+Movimiento de una imagen por teclado
