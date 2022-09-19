@@ -30,3 +30,18 @@ Añadimos moviemiento simple a la imagen
 
 ## 08-MovimientoTeclado
 Movimiento de una imagen por teclado
+
+## 09-MovimientoCursor
+Movimiento de una imagen siguiendo el cursor
+
+## 10-RectanguloColisiones
+Movimiento de una imagen siguiendo el cursor
+
+## 11-Texto
+Visualizar texto en la ventana
+
+## 12-Tiempo
+Creacion de un cronometro con time
+
+## 13-ClasesJuego
+Iniciamos la creacion de las clases para el juego
