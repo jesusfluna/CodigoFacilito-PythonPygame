@@ -54,3 +54,16 @@ Añadimos una clase para la gestion de los enemigos
 
 ## 16-MusicaSonidos
 Música y sonidos de la aplicación
+
+## 17-ListaEnemigos
+Lista para añadir multiples enemigos simultáneos
+
+## 18-Colisiones
+Establecer las colisiones entre objetos y disparos
+
+## 19-Empaquetado
+Separación y ordenado de las clases y bloques de código del proyecto
+
+## 20-Finalización
+Últimas modificaciones para el game over 
+
